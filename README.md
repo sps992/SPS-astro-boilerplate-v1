@@ -39,7 +39,10 @@ All commands are run from the root of the project, from a terminal:
 | `npm run astro -- --help` | Get help using the Astro CLI                     |
 
 ## Documentation
- [Astro](https://docs.astro.build) or jump into [Discord server](https://astro.build/chat).
-[@astrojs/tailwind](https://docs.astro.build/en/guides/integrations-guide/tailwind/).
-[Storyblok](https://www.storyblok.com/docs).
-[@storyblok/astro helpful post](https://www.storyblok.com/mp/announcing-storyblok-astro).
+ Astro - [Astro](https://docs.astro.build) or jump into [Discord server](https://astro.build/chat).
+
+Astro/ Tailwindcss integration - [@astrojs/tailwind](https://docs.astro.build/en/guides/integrations-guide/tailwind/).
+
+Storyblok - [Storyblok](https://www.storyblok.com/docs).
+
+Good for referencing - [@storyblok/astro helpful post](https://www.storyblok.com/mp/announcing-storyblok-astro).
